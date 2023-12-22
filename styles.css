@@ -6,12 +6,31 @@ body {
     font-family: "Quicksand", "serif";
     color: white;
     text-align: center;
-    padding: 5%;
+    padding: 12%;
+}
+
+.HeaderText h2 {
+    color: #888;
+    font-size: 14px;
+    font-style: italic;
 }
 
 .ParagraphText {
     font-family: "Quicksand", "serif";
     color: white;
     text-align: center;
-    padding: 5%;
+}
+
+.Socials {
+    padding: 1%;
+    text-align: center;
+}
+
+.CopyrightText {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    color: #888;
+    font-size: 12px;
+    font-family: 'Quicksand', sans-serif;
 }
