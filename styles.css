@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.HeaderText {
+    font-family: "Quicksand", "serif";
+    color: white;
+    text-align: center;
+    padding: 5%;
+}
+
+.ParagraphText {
+    font-family: "Quicksand", "serif";
+    color: white;
+    text-align: center;
+}
